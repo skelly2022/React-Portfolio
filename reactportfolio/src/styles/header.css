@@ -1,0 +1,23 @@
+header {
+    background: url("../assets/images/header.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+   
+  }
+
+header h1 {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+
+.nav {
+    justify-content: center;
+    position: relative;
+    margin-top: 15px;
+    font-size: 30px;
+    padding-bottom: 5px;
+  }
