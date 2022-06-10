@@ -147,23 +147,22 @@ export default function Album() {
                 />
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Typography gutterBottom variant="h5" component="h2">
-                    Readme Generator
+                    Text Editor
                   </Typography>
                   <Typography>
-                    This application allows you to create a Readme for your
-                    project by just answering a few simple questions!
+                   Downloadable text editor. 
                   </Typography>
                 </CardContent>
                 <CardActions>
                   <Link
                     color="inherit"
-                    href="https://github.com/skelly2022/Oh-no-my-README.md-"
+                    href="https://github.com/skelly2022/Text-Editor"
                   >
                     Github
                   </Link>
                   <Link
                     color="inherit"
-                    href="http://stephens-note-taker.herokuapp.com/"
+                    href="https://getyourtexthere.herokuapp.com/"
                   >
                     Deployed Application
                   </Link>
@@ -191,23 +190,22 @@ export default function Album() {
                 />
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Typography gutterBottom variant="h5" component="h2">
-                    Social Media Backend
+                    Book Search Engine
                   </Typography>
                   <Typography>
-                    Back end for a social media applicaiton that allows users to
-                    add friends and delete them!
+                   This application allows you to create a user/login + saved books to a reading list.
                   </Typography>
                 </CardContent>
                 <CardActions>
                   <Link
                     color="inherit"
-                    href="https://github.com/skelly2022/I-have-friends-unless-you-delete-them."
+                    href="https://github.com/skelly2022/-Book-Search-Engine"
                   >
                     Github
                   </Link>
                   <Link
                     color="inherit"
-                    href="http://stephens-note-taker.herokuapp.com/"
+                    href="https://nooksearchs.herokuapp.com/"
                   >
                     Deployed Application
                   </Link>
