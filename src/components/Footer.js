@@ -9,18 +9,18 @@ export default function Footer() {
     <footer>
         <Box className="footer">
         <Box>
-        <Link href="/" color="inherit">
+        <Link href="https://github.com/skelly2022" color="inherit">
           Github
         </Link>
       </Box>
       <Box>
-        <Link href="/" color="inherit">
-          Github
+        <Link href="https://www.linkedin.com/in/stephen-kelly-701a90ba/" color="inherit">
+          LinkedIn
         </Link>
       </Box>
       <Box>
-        <Link href="/" color="inherit">
-          Github
+        <Link href="https://twitter.com/" color="inherit">
+          Twitter
         </Link>
       </Box>
         </Box>
